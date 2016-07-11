@@ -1,11 +1,10 @@
 
-/*主页面样式表*/
+/*我要存款页面style*/
 
 *{
     margin: 0;
     padding: 0;
 }
-
 /*头部样式*/
 .top {
     border-bottom: #000000 solid 2px;
@@ -24,24 +23,25 @@
     width: 160px;
     border: #000000 solid 1px;
 }
-/*右边部分样式*/
+
+/*右部样式*/
 .rightArea {
-    width: 600px;
     padding-right: 100px;
-    background: url("../img/1212.jpg") left repeat-x;
-    height: 444px;
     float: left;
 }
-
-
-
-
-
-
-
-
-
-
-
-
+.rightArea_item {
+    margin: 100px;
+    text-align: center;
+}
+.rightArea_item .title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.rightArea_item .text {
+    padding-top: 20px;
+    text-align: left;
+}
+.rightArea_item .btn {
+    padding-top: 40px;
+}
 

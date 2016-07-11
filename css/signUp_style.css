@@ -1,24 +1,32 @@
+
+/*注册页面样式表*/
+
 * {
     margin: 0;
     padding: 0;
 }
+/*主体样式表*/
 .content {
     width: 1000px;
     text-align: center;
     margin: 0 auto;
 }
+/*banner部分*/
 .banner img {
     width: 60%;
 }
+/*欢迎语部分*/
 .welcome {
     margin: 20px;
 }
 .welcome img {
     width: 20%;
 }
+/*title部分*/
 .title img {
     width: 60%;
 }
+/*表单部分*/
 .form {
     margin: 20px;
     font-size: 26px;
