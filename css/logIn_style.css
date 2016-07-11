@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+}
+.banner img {
+    width: 60%;
+}
+.welcome {
+    margin: 20px;
+}
+.welcome img {
+    width: 20%;
+}
+.title img {
+    width: 60%;
+}
+.form {
+    margin: 20px;
+    font-size: 26px;
+}
+.username span , .password span{
+    height: 26px;
+    line-height: 26px;
+}
+.username input , .password input{
+    height: 26px;
+}
+.btn {
+    padding: 30px 400px;
+}
+.btn div {
+    margin: 10px 0;
+}
+.btn button {
+    height: 40px;
+    width: 60px;
+    font-size: 20px;
+    position: relative;
+    left: 140px;
+    display: inline-block;
+}
+.signup {
+    height: 50px;
+    font-size: 16px;
+}
+
+
+
+

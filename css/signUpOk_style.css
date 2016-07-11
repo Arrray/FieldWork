@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    width: 1000px;
+    margin: 100px auto;
+    text-align: center;
+}
+form dl {
+    width: 320px;
+    margin: 20px auto;
+}
+form dt {
+    width: 100px;
+    height: 20px;
+    float: left;
+    text-align: right;
+}
+form input {
+    width: 200px;
+}
+
+
+
+
+
+
